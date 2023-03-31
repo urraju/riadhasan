@@ -1,0 +1,14 @@
+
+ 
+
+ .nav-menu{
+    display: flex;
+    justify-content: end;
+    
+ }
+ .header-img img{
+    right: 100px;
+ }
+ .about-section{
+   width: 100%;
+ }
